@@ -1,1 +1,8 @@
 C:\Users\Rickkerdt\Graphics\P2\RayTracer\bin\Debug\template.exe.config
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\bin\Debug\template.exe.config
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\bin\Debug\template.exe
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\bin\Debug\template.pdb
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\bin\Debug\OpenTK.dll
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\obj\Debug\template.csprojResolveAssemblyReference.cache
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\obj\Debug\template.exe
+C:\Users\rickg\Desktop\School\Graphics\Graphics_P2\RayTracer\obj\Debug\template.pdb
