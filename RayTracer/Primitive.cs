@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 class Primitive
 {
-    protected Vector3 position;
+    public Vector3 color;
 
-    public Primitive(Vector3 position)
+    public Primitive(Vector3 color)
     {
-        this.position = position;
+        this.color = color;
     }
 }

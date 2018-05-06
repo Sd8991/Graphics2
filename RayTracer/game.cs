@@ -6,10 +6,12 @@ class Game
 {
     // member variables
     public Surface screen;
+    public Raytracer rayTracer;
     public static Camera c;
     // initialize
     public void Init()
     {
+        rayTracer = new Raytracer();
         c = new Camera(Vector3.Zero, new Vector3(0,0,1));
         c.Screen();
     }
@@ -17,8 +19,6 @@ class Game
     public void Tick()
     {
         screen.Clear(0);
-        for (int x = 0; x < screen.width; x++)
-            for (int y = 0; y < screen.height; y++)
-                c.ShootRay(new Vector2(x / screen.width, y / screen.height));
+        rayTracer.Render(c, screen);
     }
 }

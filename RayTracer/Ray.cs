@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 class Ray
 {
-    Vector3 start;
-    Vector3 direction;
-    float distance;
+    public Vector3 start;
+    public Vector3 direction;
+    public float distance;
 
     public Ray(Vector3 start, Vector3 direction)
     {
